@@ -1,6 +1,12 @@
+body {
+	background: #eee;
+}
+
 .App {
 	display: flex;
 	place-items: center;
 	text-align: center;
-	padding: 2rem;
+	justify-content: center;
+	align-content: center;
+	padding: 4rem;
 }
