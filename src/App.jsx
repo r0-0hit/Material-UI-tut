@@ -1,5 +1,6 @@
 import './App.css'
-import MuiSwitch from './components/MuiSwitch'
+import MuiRating from './components/MuiRating'
+// import MuiSwitch from './components/MuiSwitch'
 // import MiuCheckBox from './components/MiuCheckBox'
 // import MuiRadioGroup from './components/MuiRadioGroup'
 // import MuiSelect from './components/MuiSelect'
@@ -16,7 +17,8 @@ function App() {
 			{/* <MuiSelect /> */}
 			{/* <MuiRadioGroup /> */}
 			{/* <MiuCheckBox /> */}
-			<MuiSwitch />
+			{/* <MuiSwitch /> */}
+			<MuiRating />
 		</div>
 	)
 }
